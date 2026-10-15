@@ -1,9 +1,9 @@
 # NetLogo Coursework
 
 ## Project Overview
-There are three agents in this environment- Butterflies, Humans and Food. 
-The Humans move in a random way but make sure to right a little bit which 
-makes their movement random. The butterflies also move in a random way but 
+There are three agents in this environment: Butterflies, Humans, and Food. 
+The Humans move randomly but make sure to run a little bit, which 
+makes their movement random. The butterflies also move randomly, but 
 it is simulated to avoid the humans and even have a visual cone when they 
 see a human. This can be watched. Still to add the food environment.
 
@@ -26,6 +26,3 @@ over dependent variables
 ## Author
 Priscilla Omole- University of Hertfordshire
 
-# introduction-to-netlogo
-# introduction-to-netlogo
-# introduction-to-netlogo
